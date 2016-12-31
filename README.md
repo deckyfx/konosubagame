@@ -1,4 +1,4 @@
-# Kono Suba Game
+# konosubagame
 Konosuba Game Translation Project in RPG Maker VX Ace
 
 ## Information
